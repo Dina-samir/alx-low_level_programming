@@ -13,8 +13,6 @@ int _strlen(char *s):
     {
         ++counter;
         ++s;
-        printf(*s)
-        printf(s)
 
     }
     
