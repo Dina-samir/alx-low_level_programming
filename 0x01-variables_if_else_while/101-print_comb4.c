@@ -1,25 +1,21 @@
 #include <stdio.h>
-
 /**
- * main - will print numbers between 012 to 789.
- *
- * Return:  0
- */
+* main - will print numbers between 012 to 789.
+*
+* Return:  0
+*/
 int main(void)
 {
 	int i, e, g;
-
 	i = 48;
 	e = 48;
 	g = 48;
-
 	while (e < 58)
 	{
 		i = 48;
 		while (i < 58)
 		{
 			g = 48;
-
 			while (g < 58)
 			{
 				if (e != i && e != g && i != g && e < i && i < g)
