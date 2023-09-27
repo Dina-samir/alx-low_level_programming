@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - will Print numbers between 00 to 99.
- *
- * Return: Always 0 
- */
+* main - will Print numbers between 00 to 99.
+*
+* Return: Always 0
+*/
 int main(void)
 {
 int i, e, g, h, op1, op2;
@@ -28,8 +28,10 @@ putchar(g);
 putchar(' ');
 putchar(e);
 putchar(i);
-if (h == 57 && g == 56 && e == 57 && i == 57) 
-{break;}
+if (h == 57 && g == 56 && e == 57 && i == 57)
+{
+break;
+}
 putchar(',');
 putchar(' ');
 }
