@@ -1,10 +1,10 @@
 #include <stdio.h>
-
 /**
  * main - will Print numbers between 00 to 99.
  *
  * Return: Always 0 
  */
+ 
 int main(void)
 {
 int i, e, g, h, op1, op2;
@@ -18,7 +18,6 @@ while (h < 58)
 		e = 48;
 		while (e < 58)
 		{
-			
 			i = 48;
 			while (i < 58)
 			{
