@@ -4,11 +4,9 @@
  *
  * Return: Always 0 
  */
-
 int main(void)
 {
 int i, e, g, h, op1, op2;
-
 i = e = g = h = 48;
 while (h < 58)
 {
@@ -30,7 +28,8 @@ putchar(g);
 putchar(' ');
 putchar(e);
 putchar(i);
-if (h == 57 && g == 56 && e == 57 && i == 57) break;
+if (h == 57 && g == 56 && e == 57 && i == 57) 
+{break;}
 putchar(',');
 putchar(' ');
 }
