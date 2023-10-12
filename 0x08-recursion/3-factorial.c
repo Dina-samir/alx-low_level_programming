@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "recursion.h"
 
 /**
  * factorial - returns the factorial of a given number.

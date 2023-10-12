@@ -1,5 +1,6 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef _RECURSION_H_
+#define _RECURSION_H_
+
 
 int _putchar(char);
 void _puts_recursion(char *s);

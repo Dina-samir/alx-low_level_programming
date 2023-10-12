@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "recursion.h"
 
 /**
  * is_prime - detects if an input number is a prime number.
