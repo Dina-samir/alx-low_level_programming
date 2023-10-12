@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include <function_pointers.h>
+
 /**
  * int_index - indexes aray i think
  * @array: array to go through
