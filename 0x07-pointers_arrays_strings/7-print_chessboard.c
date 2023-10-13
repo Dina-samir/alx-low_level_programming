@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "pointers.h"
 
 /**
  * print_chessboard - prints the chessboard
